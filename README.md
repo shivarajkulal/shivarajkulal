@@ -1,6 +1,6 @@
-![logo](https://github.com/shivarajkulal/shivarajkulal/blob/main/profile.png)
+![logo](https://github.com/shivarajkulal/shivarajkulal/blob/main/Computer%20Science%20%26%20Engineering.png)
 <h1 align="center">Hi 👋, I'm Shivaraj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Continous Learner in Technology</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> </p>
 
