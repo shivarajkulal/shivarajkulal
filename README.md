@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[http://127.0.0.1:5501/index.html](https://shivarajkulal.github.io/My-Portfolio-Website/)]([http://127.0.0.1:5501/index.html](https://shivarajkulal.github.io/My-Portfolio-Website/))
+- 👨‍💻 All of my projects are available at [https://shivarajkulal.github.io/My-Portfolio-Website/](https://shivarajkulal.github.io/My-Portfolio-Website/)
 
 - 📫 How to reach me **shivarajkulalsn884@gmail.com**
 
