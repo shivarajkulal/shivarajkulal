@@ -9,7 +9,7 @@
 
 - 📧 Contact Me **shivarajkulalsn884@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1JQNJvtYeYQFeVpw-dumbU4YQoG896P0P/view?usp=sharing](https://drive.google.com/file/d/1JQNJvtYeYQFeVpw-dumbU4YQoG896P0P/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1ZP_vs3SycmBV2bP759nZZ6gNAT_TdOQD/view?usp=sharing](https://drive.google.com/file/d/1ZP_vs3SycmBV2bP759nZZ6gNAT_TdOQD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivarajkulal&show_icons=true&locale=en&layout=compact" alt="shivarajkulal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivarajkulal&" alt="shivarajkulal" /></p>
-
