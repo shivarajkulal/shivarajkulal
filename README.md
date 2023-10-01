@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,NodeJs,ReactJs**
 
-- 👨‍💻 Portfolio [https://shivarajkulal.github.io/My-Portfolio-Website/](https://shivarajkulal.github.io/My-Portfolio-Website/)
+- 👨‍💻 Portfolio [https://shivaraj.netlify.app/](https://shivaraj.netlify.app/)
 
 - 📧 Contact Me **shivarajkulalsn884@gmail.com**
 
