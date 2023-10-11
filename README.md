@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivaraj</h1>
 <h3 align="center">A Continous Learner in Technology</h3>
 
+![GIF](https://github.com/shivarajkulal/shivarajkulal/blob/main/logo.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,NodeJs,ReactJs**
