@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Shivaraj</h1>
+<h1 align="center">Hi 👋, I'm Shivaraj</h1>
 <h3 align="center">A Continous Learner in Technology</h3>
 <img align="right" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> </p>
