@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ReactJs**
 
-- 👨‍💻 Portfolio [https://shivaraj.netlify.app/](https://shivaraj.netlify.app/)
+- 👨‍💻 Portfolio [https://shivarajkulal.netlify.app//](https://shivarajkulal.netlify.app//)
 
 - 📧 Contact Me **shivarajkulalsn884@gmail.com**
 
