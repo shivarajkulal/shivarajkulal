@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shivaraj</h1>
-<h3 align="center">A Continuous Learner in Technology</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> </p>
+<h3 align="center">A Continuous Learner</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> 
+</p>
 
 - 🌱 I’m currently learning **NodeJs, ReactJs**
-
-- 👨‍💻 Portfolio [https://shivarajkulal.netlify.app//](https://shivarajkulal.netlify.app//)
-
-- 📧 Contact Me **shivarajkulalsn884@gmail.com**
-
+- 👨‍💻 Portfolio [shivarajkulal.netlify.app](https://shivarajkulal.netlify.app/)
+- 📧 Contact Me: shivarajkulalsn884@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shivaraj-kulal" target="_blank"><img align="center" src="https://github.com/shivarajkulal/shivarajkulal/blob/main/icons8-linkedin.svg" alt="shivaraj-kulal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shivaraj-kulal" target="_blank">
+    <img align="center" src="https://github.com/shivarajkulal/shivarajkulal/blob/main/icons8-linkedin.svg" alt="shivaraj-kulal" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,7 +58,7 @@
     <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/github.png" alt="github" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Jupyter.png" alt="jupyter" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/jupyter.png" alt="Jupyter" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/eclipse.png" alt="eclipse" width="40" height="40" style="margin-right: 10px;"/>
@@ -70,9 +72,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Git.png" alt="git" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <!-- Add other language icons in the same way -->
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarajkulal&" alt="shivarajkulal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarajkulal&" alt="shivarajkulal" style="border-radius: 5px;"/>
 </p>
