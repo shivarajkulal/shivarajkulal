@@ -56,7 +56,7 @@
     <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/github.png" alt="github" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/jupyter.png" alt="jupyter" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Jupyter.png" alt="jupyter" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/eclipse.png" alt="eclipse" width="40" height="40" style="margin-right: 10px;"/>
