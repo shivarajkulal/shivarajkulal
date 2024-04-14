@@ -16,8 +16,10 @@ I'm Shivaraj, Passionate about software development
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shivaraj-kulal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivarajkulal.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shivaraj-kulal)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/_shivaraj_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/ShivarajKulal/)
 
 ### Languages and Tools:
 
