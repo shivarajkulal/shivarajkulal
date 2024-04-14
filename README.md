@@ -1,80 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shivaraj</h1>
-<h3 align="center">A Continuous Learner</h3>
+I'm Shivaraj, Passionate about software development
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> 
 </p>
 
-- 🌱 I’m currently learning **NodeJs, ReactJs**
-- 👨‍💻 Portfolio [shivarajkulal.netlify.app](https://shivarajkulal.netlify.app/)
-- 📧 Contact Me: shivarajkulalsn884@gmail.com
+🌱 I’m currently learning Node.js and React.js.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shivaraj-kulal" target="_blank">
-    <img align="center" src="https://github.com/shivarajkulal/shivarajkulal/blob/main/icons8-linkedin.svg" alt="shivaraj-kulal" height="30" width="40" />
-  </a>
-</p>
+👯 I’m looking to collaborate on open-source projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/c.png" alt="c" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/java.png" alt="java" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/python.png" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/HTML5.png" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/CSS3.png" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/javascript.png" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/React.png" alt="reactjs" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Node.js.png" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Express.png" alt="express" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/MongoDB.png" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/MySQL.png" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Visual%20Studio%20Code%20(VS%20Code).png" alt="vscode" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/github.png" alt="github" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Jupyter.png" alt="Jupyter" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/eclipse.png" alt="eclipse" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/netlify.png" alt="netlify" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Figma.png" alt="figma" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/shivarajkulal/shivarajkulal/blob/main/Git.png" alt="git" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-</p>
+💬 Ask me about web development and programming languages.
 
+📫 How to reach me: shivarajkulalsn884@gmail.com.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarajkulal&" alt="shivarajkulal" style="border-radius: 5px;"/>
-</p>
+⚡ Fun fact: I love hiking and exploring new places.
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shivaraj-kulal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivarajkulal.netlify.app/)
+
+### Languages and Tools:
+
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivarajkulal&show_icons=true&theme=dark)
