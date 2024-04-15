@@ -1,10 +1,10 @@
-I'm Shivaraj, Passionate about software development
+I'm Shivaraj, Aspire to become a full-stack developer
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> 
 </p>
 
-🌱 I’m currently learning Node.js and React.js.
+🌱 I’m currently learning SpringBoot.
 
 👯 I’m looking to collaborate on open-source projects.
 
