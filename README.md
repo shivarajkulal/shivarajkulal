@@ -1,4 +1,4 @@
-## 🙏 नमस्ते!
+## 🙏 NAMASTE!
 
 I'm Shivaraj, Aspire to become a full-stack developer
 
@@ -17,11 +17,12 @@ I'm Shivaraj, Aspire to become a full-stack developer
 ⚡ Fun fact: I love hiking and exploring new places.
 
 ### Connect with me:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivarajkulal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shivaraj-kulal)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/_shivaraj_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/ShivarajKulal/)
+### Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivarajkulal.netlify.app/)
+### Coding Challenge:
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/shivarajkulalsn884/)
+
 
 ### Languages and Tools:
 
