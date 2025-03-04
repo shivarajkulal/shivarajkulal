@@ -1,5 +1,7 @@
 # Hi there, I'm Shivaraj! 👋
 
+The best view comes after the hardest climb.
+
 🚀 **Active Learner | Software Engineer @Volvo Group | Freelancer**
 
 📍 *Udupi, Karnataka, India*
