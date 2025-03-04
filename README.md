@@ -1,48 +1,58 @@
-## 🙏 NAMASTE!
+# Hi there, I'm Shivaraj! 👋
 
-I'm Shivaraj, Aspire to become a full-stack developer
+🚀 **Active Learner | Software Engineer @Volvo Group | Freelancer**
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shivarajkulal&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajkulal" /> 
-</p>
+📍 *Udupi, Karnataka, India*
 
-🌱 I’m currently learning SpringBoot.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shivaraj-kulal)
+[![Email](https://img.shields.io/badge/Email-shivarajkulalsn884%40gmail.com-red?logo=gmail)](mailto:shivarajkulalsn884@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-brightgreen?logo=googledrive)](https://drive.google.com/file/d/1S8lfH7c5m8vR8sz_UBGcabESuRoRhXsq/view?usp=sharing)
 
-👯 I’m looking to collaborate on open-source projects.
+---
 
-💬 Ask me about web development and programming languages.
+## 🔧 Tech Stack & Skills
 
-📫 How to reach me: shivarajkulalsn884@gmail.com.
+### **Programming & Backend Development**
+- Core Java, Spring Boot, Hibernate, Microservices
+- Node.js, Express.js
 
-⚡ Fun fact: I love hiking and exploring new places.
+### **Databases**
+- SQL, NoSQL, MongoDB
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shivaraj-kulal)
-### Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://shivarajkulal.netlify.app/)
-### Coding Challenge:
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/shivarajkulalsn884/)
+### **DevOps & Cloud**
+- AWS Basics, Docker, Jenkins, Git/GitHub, CI/CD Pipelines
 
+### **Monitoring & Logging**
+- Kibana, Grafana, AWS CloudWatch
 
-### Languages and Tools:
+### **Frontend & API Development**
+- React.js, Postman, RESTful APIs
 
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com)
-[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+### **Operating Systems & Tools**
+- Linux, ServiceNow
 
-![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivarajkulal&show_icons=true&theme=dark)
+---
+
+## 📌 Featured Projects
+
+| Project | Tech Stack | Repository |
+|---------|-----------|------------|
+| **Job-Application** | Spring Boot, Hibernate, Docker, Microservices | [Repo](https://github.com/shivarajkulal/Job-Application) |
+| **Phonebook Website** | Java, Tomcat, Bootstrap, MySQL | [Repo](https://github.com/shivarajkulal/Phonebook-Website?tab=readme-ov-file#tech-stack) |
+| **Bank Management System** | Core Java, Collections, OOPS | [Repo](https://github.com/shivarajkulal/Bank-Management-System) |
+| **Online Voting System** | Node.js, React.js, Express, MongoDB | [Repo](https://github.com/shivarajkulal/MERN-Voting-APP) |
+| **Data Visualization of Client Hospital Data** | Node.js, Express, Chart.js, MongoDB | [Repo](https://github.com/shivarajkulal/Visual-Data) |
+
+---
+
+## 🎯 Learning & Hands-On Projects
+- [NodeJS Tutorials](https://github.com/shivarajkulal/NodeJS_Tutorial)
+- [ReactJS Tutorials](https://github.com/shivarajkulal/ReactJS_Tutorial)
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email**: [shivarajkulalsn884@gmail.com](mailto:shivarajkulalsn884@gmail.com)
+- 💼 **LinkedIn**: [Shivaraj Kulal](https://www.linkedin.com/in/shivaraj-kulal)
+
+🔹 **Available for Freelance Work!** Feel free to reach out. 🚀
