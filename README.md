@@ -2,6 +2,8 @@
 
 The best view comes after the hardest climb.
 
+[Current Learning](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/learn/lecture/39943140#overview)
+
 🚀 **Active Learner | Software Engineer @Volvo Group | Freelancer**
 
 📍 *Udupi, Karnataka, India*
